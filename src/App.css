@@ -1,0 +1,19 @@
+body {
+  background-color: #23252C;
+}
+
+.App {
+  font-family: 'Inter', sans-serif;
+  color: #FFFFFF;
+  background-color: #1A1B21;
+  display: flex;
+  flex-direction: column;
+  width: 317px;
+  margin: auto;
+}
+
+main {
+  width: 247px;
+  margin: auto;
+  margin-bottom: 12px;
+}
